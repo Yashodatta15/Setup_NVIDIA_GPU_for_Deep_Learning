@@ -1,7 +1,5 @@
 # Setup_NVIDIA_GPU_for_Deep_Learning
 
-# Setup-NVIDIA-GPU-for-Deep-Learning
-
 ## Step 1: NVIDIA Video Driver
 
 You should install the latest version of your GPUs driver. You can download drivers here:
